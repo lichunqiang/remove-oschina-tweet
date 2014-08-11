@@ -1,0 +1,18 @@
+{
+	"name": "fuck-oschina-tweet",
+	"version": "0.0.0",
+	"manifest_version": 2,
+	"permissions": [
+			"http://www.oschina.net/"
+	],
+	"content_scripts": [
+		{
+			"run_at": "document_end",
+			"matches": [
+				"http://www.oschina.net/"
+			],
+			"css": ["content.css"],
+			"js": ["content.js"]
+		}
+	]
+}
