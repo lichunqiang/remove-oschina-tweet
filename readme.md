@@ -12,6 +12,10 @@ remove-oschina-tweet
 
 2. 进入`chrome://extensions/`, 加载本程序
 
+## 最后
+
+__让我们忘记开源中国有动弹这个功能！！__
 
 
 > 这下世界可以清静了
+
